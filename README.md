@@ -31,12 +31,6 @@ View more on my [website](https://devanjpmorgan.wixsite.com/website-4)
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
@@ -46,13 +40,13 @@ View more on my [website](https://devanjpmorgan.wixsite.com/website-4)
 
 ### 💾 My projects
 
-#### Level Design Castle Room
+#### VR Pentatholon
 <img src="https://i.imgur.com/PNQVlOY.jpeg" align="left" width="400px" height="250px"/>
 Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually striking spooky castle level.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-#### VR Escape Room
+#### 2D Galaxy Shooter
 <img src="https://i.imgur.com/H3XSt6B.png" align="left" width="400px" height="250px"/>
 This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
 
