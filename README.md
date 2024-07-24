@@ -12,13 +12,13 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 ### 📝 Check out my latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Grabbable Objects in VR](https://medium.com/@devanjpmorgan/setting-up-grabbable-objects-452c50fc4b70)
-- [Hand Animations in VR](https://medium.com/@devanjpmorgan/basic-hand-animations-be24aaaad61c)
-- [Audio in 3D](https://medium.com/@devanjpmorgan/sound-in-3d-84bd09cdf1e6)
-- [Two Handed VR Interactions](https://medium.com/@devanjpmorgan/grabbing-the-vr-world-with-both-hands-74890b7960f2)
-- [Camera Shake System](https://medium.com/@devanjpmorgan/creating-camera-shake-c4bc29243cd3)
+- [Setting Up Grabbable Objects in VR](#)
+- [Hand Animations in VR](#)
+- [Audio in 3D](#)
+- [Two Handed VR Interactions](#)
+- [Camera Shake System](#)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://devanjpmorgan.wixsite.com/website-4)
+View more on my [website](#)
 
 ---
 
@@ -54,4 +54,4 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 
 ---
 
-View more on my [website](https://devanjpmorgan.wixsite.com/website-4)
+View more on my [website](#)
