@@ -42,13 +42,13 @@ View more on my [website](#)
 
 #### VR Pentatholon
 <img src="https://i.imgur.com/x8iiJhw.png" align="left" width="400px" height="250px"/>
-Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually striking spooky castle level.
+This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 #### 2D Galaxy Shooter
 <img src="https://i.imgur.com/Np5JEXr.png" align="left" width="400px" height="250px"/>
-This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
+A 2.5D Space Shooter, developed using Unity.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
