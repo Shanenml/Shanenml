@@ -12,13 +12,13 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 ### 📝 Check out my latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Grabbable Objects in VR](#)
-- [Hand Animations in VR](#)
-- [Audio in 3D](#)
-- [Two Handed VR Interactions](#)
-- [Camera Shake System](#)
+- [Setting Up Grabbable Objects in VR](https://medium.com/@shane.makanuilopes/interactable-objects-in-vr-0118e9a82272)
+- [Hand Animations in VR](https://medium.com/@shane.makanuilopes/basic-vr-hand-animations-2d66d07b7d48)
+- [Moving Aroung VR](https://medium.com/@shane.makanuilopes/locomotion-moving-around-in-vr-8af7fcd79445)
+- [Two Handed VR Interactions](https://medium.com/@shane.makanuilopes/using-both-hands-two-hand-interactable-in-vr-338ca34385c0)
+- [Creating Boss Attacks](https://medium.com/@shane.makanuilopes/creating-the-boss-attacks-4c38039b60d5)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](#)
+View more on my [website](https://medium.com/@shane.makanuilopes)
 
 ---
 
@@ -54,4 +54,4 @@ A 2.5D Space Shooter, developed using Unity.
 
 ---
 
-View more on my [website](#)
+View more on my [website](https://medium.com/@shane.makanuilopes)
